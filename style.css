@@ -116,12 +116,16 @@ ul li:hover {
     background-color: #d5eaef;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0;
-}
 li {
     margin-bottom: 10px;
+}
+
+.project-button{
+    background-color: white;
+}
+.project-button:hover{
+    background-color: #def2fe;
+    font-weight: 600;
 }
 
 .cert-button {

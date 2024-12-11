@@ -18,5 +18,17 @@ function OpenCertification(cert_number) {
         case 5:
             window.open("https://drive.google.com/file/d/1TMYhiYAg45JGMRxIsugJNwX9hAGZf5Om/view?usp=sharing");
         break;
+        case 6:
+            window.open("https://drive.google.com/file/d/1pbQDpqBrXv0yTkvRkzEytYFD5Dj-Xv4r/view?usp=sharing");
+        break;
+        case 7:
+            window.open("https://drive.google.com/file/d/1cT1eElQu1R_Yq2IoW8yG1FF6G8Ibz4Ce/view?usp=drive_link");
+        break;
+    }
+}
+function Openprojects(project_num){
+    switch(project_num){
+        case 0:
+            window.open("https://wokwi.com/projects/407089380965151745");
     }
 }
