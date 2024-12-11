@@ -12,6 +12,11 @@ body {
     line-height: 1.6;
 }
 
+#about{
+    font-size: 18px;
+    text-align: justify;
+}
+
 header {
     background-color: rgba(51, 51, 51, 0.85);
     color: #fff;
