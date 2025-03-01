@@ -139,3 +139,12 @@ li {
     background-color: #def2fe;
     font-weight: 600;
 }
+
+.expe-button {
+    background-color: white;
+}
+
+.expe-button:hover {
+    background-color: #def2fe;
+    font-weight: 600;
+}
