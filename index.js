@@ -26,9 +26,17 @@ function OpenCertification(cert_number) {
         break;
     }
 }
+function Openexpe(expe_num){
+    switch(expe_num){
+        case 0:
+            window.open("https://www.linkedin.com/posts/mathamsetty-vaibhav-088209253_internship-activity-7299728410178723840-aCUx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6ARSgBhtqnQgv2nGAtpP7gXxJlPwWB_lw");
+        break;
+    }
+}
 function Openprojects(project_num){
     switch(project_num){
         case 0:
             window.open("https://wokwi.com/projects/407089380965151745");
+        break;
     }
 }
