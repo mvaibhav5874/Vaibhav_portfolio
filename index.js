@@ -29,7 +29,7 @@ function OpenCertification(cert_number) {
 function Openexpe(expe_num){
     switch(expe_num){
         case 0:
-            window.open("https://www.linkedin.com/posts/mathamsetty-vaibhav-088209253_internship-activity-7299728410178723840-aCUx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6ARSgBhtqnQgv2nGAtpP7gXxJlPwWB_lw");
+            window.open("https://www.linkedin.com/posts/mathamsetty-vaibhav5874_internship-activity-7299728410178723840-TMfx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6ARSgBhtqnQgv2nGAtpP7gXxJlPwWB_lw");
         break;
     }
 }
