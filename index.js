@@ -38,5 +38,14 @@ function Openprojects(project_num){
         case 0:
             window.open("https://wokwi.com/projects/407089380965151745");
         break;
+        case 1:
+            window.open("");
+        break;
+        case 2:
+            window.open("https://github.com/mvaibhav5874/Login_system_using_aws-cognito");
+        break;
+        case 3:
+            window.open("https://github.com/mvaibhav5874/To-do-application");
+        break;
     }
 }
